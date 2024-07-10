@@ -11,3 +11,29 @@
 
 👉🏻Official Documentation:
 Ultralytics YOLOv8 Documentation: Refer to the official YOLOv8 documentation for comprehensive guides and insights on various computer vision tasks and projects. 🔗 https://docs.ultralytics.com/ .
+
+## Make Sure that Runtime Type is T4 GPU
+
+![alt text](assets/t41.png)
+
+## Ensure to all requirement types
+
+![alt text](assets/t42.png)
+
+## After running all the moudules the Gradio app is live
+
+![alt text](assets/t43.png)
+
+## Upload the Video to Infer
+
+![alt text](assets/t444.png)
+
+## The resultant Video Processing
+
+![alt text](assets/t44.png)
+
+## The Outcome of Video Processing
+
+![alt text](assets/t4OUT.png)
+
+## Demo Video 

@@ -38,7 +38,7 @@ Ultralytics YOLOv8 Documentation: Refer to the official YOLOv8 documentation for
 
 ## Demo Video 
 
-![alt text](docs/YOLO.png)
+![alt text](docs/YOLO.gif)
 
 .
 

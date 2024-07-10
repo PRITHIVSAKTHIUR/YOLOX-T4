@@ -1,4 +1,4 @@
-## Ultralytics 8.2.51 YOLOv8
+## Ultralytics 8.2.51 YOLOv8 in Colab Demo 🍺
 
     Ultralytics dropped the YOLOv8 - #Ultralytics 8.2.51 🔥, YOLOv8 is designed to be fast, accurate, and easy to use, making it an excellent choice for a wide range of object detection and tracking, instance segmentation, image classification and pose estimation tasks.
 

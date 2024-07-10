@@ -37,3 +37,11 @@ Ultralytics YOLOv8 Documentation: Refer to the official YOLOv8 documentation for
 ![alt text](assets/t4OUT.png)
 
 ## Demo Video 
+
+![alt text](docs/YOLO.png)
+
+.
+
+.
+
+.@prithivsakthiur
